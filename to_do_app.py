@@ -1,5 +1,4 @@
 # todo.py
-
 tasks = []
 
 while True:
