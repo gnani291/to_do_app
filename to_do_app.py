@@ -1,6 +1,7 @@
 # todo.py
 tasks = []
 
+
 while True:
     print("\n--- TO DO APP ---")
     print("1. Add Task")
